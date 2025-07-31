@@ -1,0 +1,30 @@
+
+
+
+
+int main() {
+    int num1 = 100;
+    float _value = 3.14;  
+    invalid-id = 5;       
+    if (num1 >= 50) {
+        return true;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
